@@ -23,8 +23,7 @@ A simple command-line fitness tracker that helps users calculate their **BMI**, 
 ## 📂 Files
 
 - `code.py` - Main application script.
-- `exercise_log.csv` - Auto-generated log file containing exercise history.
-
+- `README` 
 ## 🚀 How to Run
 
 ### Requirements
